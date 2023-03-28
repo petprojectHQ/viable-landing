@@ -18,8 +18,8 @@ main {
     justify-content: center;
     font-weight:200;
     /* margin: auto; */
-    margin-top: 15%;
-    margin-bottom: 4%;
+    margin-top: 10%;
+    margin-bottom: 2%;
   }
 .content-div{
     width:80% ;
@@ -36,7 +36,7 @@ main {
   }
   .page-title{
     margin-bottom: 3%;
-    margin-top: 3%;
+    margin-top: 2%;
     color: rgb(55, 53, 47);
     font-weight: 700;
     line-height: 1.2;
